@@ -4,7 +4,9 @@
 The goal of this project was to solve a murder mystery using SQL queries to analyze the database, identify suspects, gather evidence, and uncover the true culprit behind the crime.
 
 ## Database Structure
-Dataset source: https://docs.google.com/document/d/1mNiXk7ZAr9jttkQ0xp64hBmyTke7L-0r_QSWMIv-RjY/edit?usp=sharing
+Dataset source: https://www.kaggle.com/datasets/johnp47/sql-murder-mystery-database/data
+
+Report on Findings: https://docs.google.com/document/d/1mNiXk7ZAr9jttkQ0xp64hBmyTke7L-0r_QSWMIv-RjY/edit?usp=sharing
 
 The database contains the following tables:
 1. `crime_scene_report`
